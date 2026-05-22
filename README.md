@@ -112,3 +112,10 @@ This project was presented as a research paper on real-time IoT tracking systems
 
 This project is intended for academic, research, and educational purposes.
 
+---
+
+# Project View
+
+<p align="center">
+  <img width="500" height="500" alt="ESP32 A9G GPS Tracker" src="https://github.com/user-attachments/assets/b4db8cb8-363c-451d-9842-9910a86d93cd" />
+</p>
